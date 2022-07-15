@@ -1,3 +1,5 @@
 {
-    "type": "module"
+  "dependencies": {
+    "cfonts": "^3.1.1"
+  }
 }
